@@ -1,0 +1,841 @@
+﻿Log file open, 11/18/16 18:10:09
+LogInit:Display: Running engine for game: Limbo
+LogPlatformFile: Not using cached read wrapper
+LogInit:Display: RandInit(1715462066) SRandInit(1715462066).
+LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 1 sets of task threads.
+LogStats: Stats thread started at 0.079849
+LogPluginManager: Loaded Plugin Paper2D, From C:/Program Files/Epic Games/4.13/Engine/Plugins/2D/Paper2D/Paper2D.uplugin
+LogPluginManager: Loaded Plugin LightPropagationVolume, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Blendables/LightPropagationVolume/LightPropagationVolume.uplugin
+LogPluginManager: Loaded Plugin BlankPlugin, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Developer/BlankPlugin/BlankPlugin.uplugin
+LogPluginManager: Loaded Plugin CodeLiteSourceCodeAccess, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Developer/CodeLiteSourceCodeAccess/CodeLiteSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin GitSourceControl, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Developer/GitSourceControl/GitSourceControl.uplugin
+LogPluginManager: Loaded Plugin KDevelopSourceCodeAccess, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Developer/KDevelopSourceCodeAccess/KDevelopSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin NullSourceCodeAccess, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Developer/NullSourceCodeAccess/NullSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin OneSkyLocalizationService, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Developer/OneSkyLocalizationService/OneSkyLocalizationService.uplugin
+LogPluginManager: Loaded Plugin PerforceSourceControl, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Developer/PerforceSourceControl/PerforceSourceControl.uplugin
+LogPluginManager: Loaded Plugin SubversionSourceControl, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Developer/SubversionSourceControl/SubversionSourceControl.uplugin
+LogPluginManager: Loaded Plugin UObjectPlugin, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Developer/UObjectPlugin/UObjectPlugin.uplugin
+LogPluginManager: Loaded Plugin VisualStudioSourceCodeAccess, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Developer/VisualStudioSourceCodeAccess/VisualStudioSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin XCodeSourceCodeAccess, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Developer/XCodeSourceCodeAccess/XCodeSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin EpicSurvey, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Editor/EpicSurvey/EpicSurvey.uplugin
+LogPluginManager: Loaded Plugin MacGraphicsSwitching, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Editor/MacGraphicsSwitching/MacGraphicsSwitching.uplugin
+LogPluginManager: Loaded Plugin MobileLauncherProfileWizard, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Editor/MobileLauncherProfileWizard/MobileLauncherProfileWizard.uplugin
+LogPluginManager: Loaded Plugin PluginBrowser, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Editor/PluginBrowser/PluginBrowser.uplugin
+LogPluginManager: Loaded Plugin SpeedTreeImporter, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Editor/SpeedTreeImporter/SpeedTreeImporter.uplugin
+LogPluginManager: Loaded Plugin SuperSearchEditor, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Editor/SuperSearchEditor/SuperSearchEditor.uplugin
+LogPluginManager: Loaded Plugin AlembicImporter, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Experimental/AlembicImporter/AlembicImporter.uplugin
+LogPluginManager: Loaded Plugin BlueprintStats, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Experimental/BlueprintStats/BlueprintStats.uplugin
+LogPluginManager: Loaded Plugin CharacterAI, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Experimental/CharacterAI/CharacterAI.uplugin
+LogPluginManager: Loaded Plugin CodeEditor, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Experimental/CodeEditor/CodeEditor.uplugin
+LogPluginManager: Loaded Plugin CodeView, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Experimental/CodeView/CodeView.uplugin
+LogPluginManager: Loaded Plugin HTML5Networking, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Experimental/HTML5Networking/HTML5Networking.uplugin
+LogPluginManager: Loaded Plugin LiveEditor, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Experimental/LiveEditor/LiveEditor.uplugin
+LogPluginManager: Loaded Plugin OSVR, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Experimental/OSVR/OSVR.uplugin
+LogPluginManager: Loaded Plugin Phya, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Experimental/Phya/Phya.uplugin
+LogPluginManager: Loaded Plugin SignificanceManager, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Experimental/SignificanceManager/SignificanceManager.uplugin
+LogPluginManager: Loaded Plugin SimpleHMD, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Experimental/SimpleHMD/SimpleHMD.uplugin
+LogPluginManager: Loaded Plugin StereoPanorama, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Experimental/StereoPanorama/StereoPanorama.uplugin
+LogPluginManager: Loaded Plugin StructBox, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Experimental/StructBox/StructBox.uplugin
+LogPluginManager: Loaded Plugin Substance, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Marketplace/Substance/Substance.uplugin
+LogPluginManager: Loaded Plugin AndroidMedia, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Media/AndroidMedia/AndroidMedia.uplugin
+LogPluginManager: Loaded Plugin AvfMedia, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Media/AvfMedia/AvfMedia.uplugin
+LogPluginManager: Loaded Plugin MediaPlayerEditor, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Media/MediaPlayerEditor/MediaPlayerEditor.uplugin
+LogPluginManager: Loaded Plugin WmfMedia, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Media/WmfMedia/WmfMedia.uplugin
+LogPluginManager: Loaded Plugin MessagingDebugger, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Messaging/MessagingDebugger/MessagingDebugger.uplugin
+LogPluginManager: Loaded Plugin TcpMessaging, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Messaging/TcpMessaging/TcpMessaging.uplugin
+LogPluginManager: Loaded Plugin UdpMessaging, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Messaging/UdpMessaging/UdpMessaging.uplugin
+LogPluginManager: Loaded Plugin LevelSequenceEditor, From C:/Program Files/Epic Games/4.13/Engine/Plugins/MovieScene/LevelSequenceEditor/LevelSequenceEditor.uplugin
+LogPluginManager: Loaded Plugin MatineeToLevelSequence, From C:/Program Files/Epic Games/4.13/Engine/Plugins/MovieScene/MatineeToLevelSequence/MatineeToLevelSequence.uplugin
+LogPluginManager: Loaded Plugin NetcodeUnitTest, From C:/Program Files/Epic Games/4.13/Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/NetcodeUnitTest.uplugin
+LogPluginManager: Loaded Plugin NUTUnrealEngine4, From C:/Program Files/Epic Games/4.13/Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/NUTUnrealEngine4.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemGooglePlay, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Online/Android/OnlineSubsystemGooglePlay/OnlineSubsystemGooglePlay.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemIOS, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Online/IOS/OnlineSubsystemIOS/OnlineSubsystemIOS.uplugin
+LogPluginManager: Loaded Plugin OnlineFramework, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Online/OnlineFramework/OnlineFramework.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystem, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystem/OnlineSubsystem.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemAmazon, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemAmazon/OnlineSubsystemAmazon.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemFacebook, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemFacebook/OnlineSubsystemFacebook.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemNull, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemNull/OnlineSubsystemNull.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemOculus, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemOculus/OnlineSubsystemOculus.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemSteam, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemSteam/OnlineSubsystemSteam.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemUtils, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemUtils/OnlineSubsystemUtils.uplugin
+LogPluginManager: Loaded Plugin IOSTapJoy, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/Advertising/IOSTapJoy/IOSTapJoy.uplugin
+LogPluginManager: Loaded Plugin AnalyticsBlueprintLibrary, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/AnalyticsBlueprintLibrary/AnalyticsBlueprintLibrary.uplugin
+LogPluginManager: Loaded Plugin AnalyticsMulticast, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/AnalyticsMulticast/AnalyticsMulticast.uplugin
+LogPluginManager: Loaded Plugin Apsalar, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/Apsalar/Apsalar.uplugin
+LogPluginManager: Loaded Plugin FileLogging, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/FileLogging/FileLogging.uplugin
+LogPluginManager: Loaded Plugin Flurry, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/Flurry/Flurry.uplugin
+LogPluginManager: Loaded Plugin AndroidDeviceProfileSelector, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/AndroidDeviceProfileSelector/AndroidDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin AndroidMoviePlayer, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/AndroidMoviePlayer/AndroidMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin AppleMoviePlayer, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/AppleMoviePlayer/AppleMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin ArchVisCharacter, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/ArchVisCharacter/ArchVisCharacter.uplugin
+LogPluginManager: Loaded Plugin CableComponent, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/CableComponent/CableComponent.uplugin
+LogPluginManager: Loaded Plugin CustomMeshComponent, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/CustomMeshComponent/CustomMeshComponent.uplugin
+LogPluginManager: Loaded Plugin ExampleDeviceProfileSelector, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/ExampleDeviceProfileSelector/ExampleDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin GearVR, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/GearVR/GearVR.uplugin
+LogPluginManager: Loaded Plugin GoogleVRController, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/GoogleVR/GoogleVRController/GoogleVRController.uplugin
+LogPluginManager: Loaded Plugin GoogleVRHMD, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/GoogleVR/GoogleVRHMD/GoogleVRHMD.uplugin
+LogPluginManager: Loaded Plugin IOSDeviceProfileSelector, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/IOSDeviceProfileSelector/IOSDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin LeapMotion, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/LeapMotion/LeapMotion.uplugin
+LogPluginManager: Loaded Plugin LinuxDeviceProfileSelector, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/LinuxDeviceProfileSelector/LinuxDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin LiveEditorListenServer, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/LiveEditorListenServer/LiveEditorListenServer.uplugin
+LogPluginManager: Loaded Plugin OculusAudio, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/OculusAudio/OculusAudio.uplugin
+LogPluginManager: Loaded Plugin OculusInput, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/OculusInput/OculusInput.uplugin
+LogPluginManager: Loaded Plugin OculusLibrary, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/OculusLibrary/OculusLibrary.uplugin
+LogPluginManager: Loaded Plugin OculusRift, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/OculusRift/OculusRift.uplugin
+LogPluginManager: Loaded Plugin Oodle, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/PacketHandlers/CompressionComponents/Oodle/Oodle.uplugin
+LogPluginManager: Loaded Plugin ProceduralMeshComponent, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/ProceduralMeshComponent/ProceduralMeshComponent.uplugin
+LogPluginManager: Loaded Plugin SoundMod, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/SoundMod/SoundMod.uplugin
+LogPluginManager: Loaded Plugin SoundVisualizations, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/SoundVisualizations/SoundVisualizations.uplugin
+LogPluginManager: Loaded Plugin SteamController, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/Steam/SteamController/SteamController.uplugin
+LogPluginManager: Loaded Plugin SteamVR, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/Steam/SteamVR/SteamVR.uplugin
+LogPluginManager: Loaded Plugin WebBrowserWidget, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/WebBrowserWidget/WebBrowserWidget.uplugin
+LogPluginManager: Loaded Plugin WindowsDeviceProfileSelector, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/WindowsDeviceProfileSelector/WindowsDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin WindowsMoviePlayer, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/WindowsMoviePlayer/WindowsMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin ScriptPlugin, From C:/Program Files/Epic Games/4.13/Engine/Plugins/ScriptPlugin/ScriptPlugin.uplugin
+LogPluginManager: Loaded Plugin SlateRemote, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Slate/SlateRemote/SlateRemote.uplugin
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with WinSSL
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.13-CL-3172292
+LogInit: Engine Version: 4.13.2-3172292+++UE4+Release-4.13
+LogInit: Compatible Engine Version: 4.13.0-3106830+++UE4+Release-4.13
+LogInit: Net CL: 3172292
+LogDevObjectVersion: Number of dev versions registered: 13
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 5
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 1
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 6
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 12
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 4
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 0
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogInit: Compiled (64-bit): Oct 24 2016 14:29:06
+LogInit: Compiled with Visual C++: 19.00.23026.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.13
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/4.13/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2016.11.18-23.10.09:483][  0]LogInit: Selected Device Profile: [Windows]
+[2016.11.18-23.10.09:483][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2016.11.18-23.10.09:492][  0]LogInit: Computer: DEREKMALONE-PC
+[2016.11.18-23.10.09:492][  0]LogInit: User: DerekMalone
+[2016.11.18-23.10.09:492][  0]LogInit: CPU Page size=65536, Cores=4
+[2016.11.18-23.10.09:492][  0]LogInit: High frequency timer resolution =2.241012 MHz
+[2016.11.18-23.10.09:492][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2016.11.18-23.10.09:492][  0]LogMemory: Platform Memory Stats for Windows
+[2016.11.18-23.10.09:492][  0]LogMemory: Process Physical Memory: 256.13 MB used, 256.13 MB peak
+[2016.11.18-23.10.09:492][  0]LogMemory: Process Virtual Memory: 260.11 MB used, 260.11 MB peak
+[2016.11.18-23.10.09:492][  0]LogMemory: Physical Memory: 4804.59 MB used, 16337.79 MB total
+[2016.11.18-23.10.09:492][  0]LogMemory: Virtual Memory: 623.23 MB used, 134217728.00 MB total
+[2016.11.18-23.10.09:529][  0]LogTextLocalizationManager: No specific translations for ('en-US') exist, so ('en') translations will be used.
+[2016.11.18-23.10.10:145][  0]LogD3D11RHI: D3D11 adapters:
+[2016.11.18-23.10.10:192][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 660M' (Feature Level 11_0)
+[2016.11.18-23.10.10:192][  0]LogD3D11RHI:       2017/0/8168 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2016.11.18-23.10.10:194][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2016.11.18-23.10.10:194][  0]LogD3D11RHI:       0/0/8168 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2016.11.18-23.10.10:194][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2016.11.18-23.10.10:199][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2016.11.18-23.10.10:199][  0]LogD3D11RHI:     GPU DeviceId: 0xfd4 (for the marketing name, search the web for "GPU Device Id")
+[2016.11.18-23.10.10:199][  0]LogWindows: EnumDisplayDevices:
+[2016.11.18-23.10.10:199][  0]LogWindows:    0. 'NVIDIA GeForce GTX 660M' (P:1 D:1)
+[2016.11.18-23.10.10:199][  0]LogWindows:    1. 'NVIDIA GeForce GTX 660M' (P:0 D:0)
+[2016.11.18-23.10.10:200][  0]LogWindows:    2. 'NVIDIA GeForce GTX 660M' (P:0 D:0)
+[2016.11.18-23.10.10:200][  0]LogWindows:    3. 'NVIDIA GeForce GTX 660M' (P:0 D:0)
+[2016.11.18-23.10.10:200][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2016.11.18-23.10.10:200][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 660M
+[2016.11.18-23.10.10:200][  0]LogD3D11RHI:   Driver Version: 372.90 (internal:21.21.13.7290, unified:372.90)
+[2016.11.18-23.10.10:200][  0]LogD3D11RHI:      Driver Date: 9-16-2016
+[2016.11.18-23.10.10:200][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2016.11.18-23.10.10:217][  0]LogD3D11RHI: Async texture creation enabled
+[2016.11.18-23.10.10:233][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2016.11.18-23.10.10:233][  0]LogShaderCompilers: Guid format shader working directory is -21 characters bigger than the processId version (../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Intermediate/Shaders/WorkingDirectory/912/).
+[2016.11.18-23.10.10:233][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/DEREKM~1/AppData/Local/Temp/UnrealShaderWorkingDir/105C98DF483DDA636A1098BEE4C8C41E/'.
+[2016.11.18-23.10.10:233][  0]LogShaderCompilers:Display: Using Local Shader Compiler.
+[2016.11.18-23.10.11:319][  0]LogTemp:Display: Loaded TP AllDesktopTargetPlatform
+[2016.11.18-23.10.11:331][  0]LogTemp:Display: Loaded TP WindowsClientTargetPlatform
+[2016.11.18-23.10.11:356][  0]LogTemp:Display: Loaded TP WindowsNoEditorTargetPlatform
+[2016.11.18-23.10.11:369][  0]LogTemp:Display: Loaded TP WindowsServerTargetPlatform
+[2016.11.18-23.10.11:378][  0]LogTemp:Display: Loaded TP WindowsTargetPlatform
+[2016.11.18-23.10.11:388][  0]LogTemp:Display: Loaded TP AndroidTargetPlatform
+[2016.11.18-23.10.11:396][  0]LogTemp:Display: Loaded TP Android_ASTCTargetPlatform
+[2016.11.18-23.10.11:404][  0]LogTemp:Display: Loaded TP Android_ATCTargetPlatform
+[2016.11.18-23.10.11:412][  0]LogTemp:Display: Loaded TP Android_DXTTargetPlatform
+[2016.11.18-23.10.11:421][  0]LogTemp:Display: Loaded TP Android_ETC1TargetPlatform
+[2016.11.18-23.10.11:429][  0]LogTemp:Display: Loaded TP Android_ETC2TargetPlatform
+[2016.11.18-23.10.11:445][  0]LogTemp:Display: Loaded TP Android_MultiTargetPlatform
+[2016.11.18-23.10.11:445][  0]LogTemp:Display: Loaded TP Android_PVRTCTargetPlatform
+[2016.11.18-23.10.11:447][  0]LogTemp:Display: Loaded TP HTML5TargetPlatform
+[2016.11.18-23.10.11:470][  0]LogTemp:Display: Loaded TP IOSTargetPlatform
+[2016.11.18-23.10.11:478][  0]LogTemp:Display: Loaded TP TVOSTargetPlatform
+[2016.11.18-23.10.11:486][  0]LogTemp:Display: Loaded TP LinuxClientTargetPlatform
+[2016.11.18-23.10.11:494][  0]LogTemp:Display: Loaded TP LinuxNoEditorTargetPlatform
+[2016.11.18-23.10.11:502][  0]LogTemp:Display: Loaded TP LinuxServerTargetPlatform
+[2016.11.18-23.10.11:510][  0]LogTemp:Display: Loaded TP LinuxTargetPlatform
+[2016.11.18-23.10.11:511][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2016.11.18-23.10.11:631][  0]LogDerivedDataCache:Display: Max Cache Size: 512 MB
+[2016.11.18-23.10.11:695][  0]LogDerivedDataCache: Loaded boot cache 0.06s 62MB C:/Users/Derek Malone/AppData/Local/UnrealEngine/4.13/DerivedDataCache/Boot.ddc.
+[2016.11.18-23.10.11:695][  0]LogDerivedDataCache:Display: Loaded Boot cache: C:/Users/Derek Malone/AppData/Local/UnrealEngine/4.13/DerivedDataCache/Boot.ddc
+[2016.11.18-23.10.11:695][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2016.11.18-23.10.11:695][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2016.11.18-23.10.11:695][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2016.11.18-23.10.11:695][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2016.11.18-23.10.11:714][  0]LogDerivedDataCache:Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2016.11.18-23.10.11:726][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Derek Malone/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2016.11.18-23.10.11:975][  0]LogInit: Selected Device Profile: [Windows]
+[2016.11.18-23.10.11:978][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2016.11.18-23.10.12:783][  0]LogSimplygon:Display: Initialized with Simplygon 8.1.2299.@305_18f808c3cf724e5a994f57de5c83cc4b
+[2016.11.18-23.10.12:783][  0]LogMeshUtilities: Using SimplygonMeshReduction for automatic mesh reduction
+[2016.11.18-23.10.12:783][  0]LogMeshUtilities: Using SimplygonMeshReduction for automatic mesh merging
+[2016.11.18-23.10.12:786][  0]LogMeshUtilities: Using SimplygonSwarm for distributed automatic mesh merging
+[2016.11.18-23.10.12:893][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2016.11.18-23.10.13:190][  0]LogNetVersion: GetLocalNetworkVersion: CL: 3106830, ProjectName: limbo, ProjectVersion: , EngineNetworkVersion: 1, GameNetworkVersion: 0, NetworkChecksum: 2994475572
+[2016.11.18-23.10.13:233][  0]LogAssetRegistry: FAssetRegistry took 0.0222 seconds to start up
+[2016.11.18-23.10.13:263][  0]LogPackageLocalizationCache: Processed 3 localized package path(s) for 2 prioritized culture(s) in 0.026115 seconds
+[2016.11.18-23.10.13:269][  0]LogUObjectArray: 29811 objects as part of root set at end of initial load.
+[2016.11.18-23.10.13:269][  0]LogUObjectAllocator: 6130328 out of 0 bytes used by permanent object pool.
+[2016.11.18-23.10.13:269][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2016.11.18-23.10.13:278][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2016.11.18-23.10.13:535][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2016.11.18-23.10.13:535][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2016.11.18-23.10.14:277][  0]LogSubstanceCoreModule: Substance CPU Engine Loaded, Max Texture Size 2048
+[2016.11.18-23.10.14:292][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2016.11.18-23.10.14:339][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2016.11.18-23.10.14:627][  0]SourceControl: Info Source control is disabled
+[2016.11.18-23.10.14:629][  0]SourceControl: Info Source control is disabled
+[2016.11.18-23.10.14:642][  0]SourceControl: Info Source control is disabled
+[2016.11.18-23.10.14:655][  0]SourceControl: Info Source control is disabled
+[2016.11.18-23.10.15:061][  0]LogEngine: Initializing Engine...
+[2016.11.18-23.10.15:073][  0]LogHMD: Failed to initialize OpenVR with code 108
+[2016.11.18-23.10.15:220][  0]LogAIModule: Creating AISystem for world Untitled
+[2016.11.18-23.10.15:235][  0]LogInit: XAudio2 using 'Headphones (2- High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.11.18-23.10.15:248][  0]LogInit: FAudioDevice initialized.
+[2016.11.18-23.10.15:277][  0]LogDerivedDataCache: Saved boot cache 0.03s 62MB C:/Users/Derek Malone/AppData/Local/UnrealEngine/4.13/DerivedDataCache/Boot.ddc.
+[2016.11.18-23.10.15:282][  0]LogInit: Texture streaming: Enabled
+[2016.11.18-23.10.15:311][  0]LogInit: Transaction tracking system initialized
+[2016.11.18-23.10.15:338][  0]BlueprintLog: New page: Editor Load
+[2016.11.18-23.10.15:527][  0]LocalizationService: Info Localization service is disabled
+[2016.11.18-23.10.15:871][  0]LogConsoleResponse:Display: 
+[2016.11.18-23.10.15:990][  0]LogCook:Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2016.11.18-23.10.15:990][  0]LogCook:Display: Mobile HDR setting 1
+[2016.11.18-23.10.16:192][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/' took 0.01s
+[2016.11.18-23.10.16:192][  0]SourceControl: Info Source control is disabled
+[2016.11.18-23.10.16:444][  0]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 C:/Program Files/Epic Games/4.13/FeaturePacks/StarterContent.upack)
+[2016.11.18-23.10.16:484][  0]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2016.11.18-23.10.16:608][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Floor_400x400.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Architecture/Floor_400x400.uasset"
+[2016.11.18-23.10.16:627][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Pillar_50x500.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Architecture/Pillar_50x500.uasset"
+[2016.11.18-23.10.16:643][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Architecture/SM_AssetPlatform.uasset"
+[2016.11.18-23.10.16:671][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x200.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Architecture/Wall_400x200.uasset"
+[2016.11.18-23.10.16:673][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x300.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Architecture/Wall_400x300.uasset"
+[2016.11.18-23.10.16:681][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x400.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Architecture/Wall_400x400.uasset"
+[2016.11.18-23.10.16:691][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_500x500.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Architecture/Wall_500x500.uasset"
+[2016.11.18-23.10.16:709][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Architecture/Wall_Door_400x300.uasset"
+[2016.11.18-23.10.16:712][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Architecture/Wall_Door_400x400.uasset"
+[2016.11.18-23.10.16:726][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Architecture/Wall_Window_400x300.uasset"
+[2016.11.18-23.10.16:745][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Architecture/Wall_Window_400x400.uasset"
+[2016.11.18-23.10.16:830][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse01.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Audio/Collapse01.uasset"
+[2016.11.18-23.10.16:861][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse02.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Audio/Collapse02.uasset"
+[2016.11.18-23.10.16:881][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse_Cue.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Audio/Collapse_Cue.uasset"
+[2016.11.18-23.10.16:953][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion01.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Audio/Explosion01.uasset"
+[2016.11.18-23.10.17:020][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion02.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Audio/Explosion02.uasset"
+[2016.11.18-23.10.17:058][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion_Cue.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Audio/Explosion_Cue.uasset"
+[2016.11.18-23.10.17:080][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Audio/Fire01.uasset"
+[2016.11.18-23.10.17:091][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01_Cue.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Audio/Fire01_Cue.uasset"
+[2016.11.18-23.10.17:108][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Audio/Fire_Sparks01.uasset"
+[2016.11.18-23.10.17:124][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset"
+[2016.11.18-23.10.17:137][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Audio/Light01.uasset"
+[2016.11.18-23.10.17:149][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01_Cue.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Audio/Light01_Cue.uasset"
+[2016.11.18-23.10.17:161][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Audio/Light02.uasset"
+[2016.11.18-23.10.17:164][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02_Cue.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Audio/Light02_Cue.uasset"
+[2016.11.18-23.10.17:179][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Audio/Smoke01.uasset"
+[2016.11.18-23.10.17:181][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01_Cue.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Audio/Smoke01_Cue.uasset"
+[2016.11.18-23.10.17:197][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Background_Cue.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Audio/Starter_Background_Cue.uasset"
+[2016.11.18-23.10.17:232][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Birds01.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Audio/Starter_Birds01.uasset"
+[2016.11.18-23.10.17:316][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music01.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Audio/Starter_Music01.uasset"
+[2016.11.18-23.10.17:327][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music_Cue.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Audio/Starter_Music_Cue.uasset"
+[2016.11.18-23.10.17:357][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind05.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Audio/Starter_Wind05.uasset"
+[2016.11.18-23.10.17:386][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind06.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Audio/Starter_Wind06.uasset"
+[2016.11.18-23.10.17:407][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Audio/Steam01.uasset"
+[2016.11.18-23.10.17:417][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01_Cue.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Audio/Steam01_Cue.uasset"
+[2016.11.18-23.10.17:434][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+[2016.11.18-23.10.17:447][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset"
+[2016.11.18-23.10.17:456][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset"
+[2016.11.18-23.10.17:469][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset"
+[2016.11.18-23.10.17:478][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset"
+[2016.11.18-23.10.17:482][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset"
+[2016.11.18-23.10.17:494][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset"
+[2016.11.18-23.10.17:510][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/BP_LightStudio.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Blueprints/BP_LightStudio.uasset"
+[2016.11.18-23.10.17:520][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset"
+[2016.11.18-23.10.17:527][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset"
+[2016.11.18-23.10.17:540][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset"
+[2016.11.18-23.10.17:548][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset"
+[2016.11.18-23.10.17:558][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset"
+[2016.11.18-23.10.17:574][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/Skybox.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Blueprints/Assets/Skybox.uasset"
+[2016.11.18-23.10.17:635][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset"
+[2016.11.18-23.10.17:681][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset"
+[2016.11.18-23.10.18:630][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+[2016.11.18-23.10.18:662][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting.umap" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Maps/Advanced_Lighting.umap"
+[2016.11.18-23.10.18:686][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default.umap" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Maps/Minimal_Default.umap"
+[2016.11.18-23.10.18:858][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap.umap" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Maps/StarterMap.umap"
+[2016.11.18-23.10.18:875][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_AssetPlatform.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Materials/M_AssetPlatform.uasset"
+[2016.11.18-23.10.18:881][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Floor.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Materials/M_Basic_Floor.uasset"
+[2016.11.18-23.10.18:888][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Wall.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Materials/M_Basic_Wall.uasset"
+[2016.11.18-23.10.18:905][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset"
+[2016.11.18-23.10.18:921][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Materials/M_Brick_Clay_New.uasset"
+[2016.11.18-23.10.18:936][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset"
+[2016.11.18-23.10.18:952][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset"
+[2016.11.18-23.10.18:976][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset"
+[2016.11.18-23.10.19:027][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset"
+[2016.11.18-23.10.19:041][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset"
+[2016.11.18-23.10.19:132][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset"
+[2016.11.18-23.10.19:173][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset"
+[2016.11.18-23.10.19:195][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset"
+[2016.11.18-23.10.19:267][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Grime.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Materials/M_Concrete_Grime.uasset"
+[2016.11.18-23.10.19:321][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Panels.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Materials/M_Concrete_Panels.uasset"
+[2016.11.18-23.10.19:348][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Poured.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Materials/M_Concrete_Poured.uasset"
+[2016.11.18-23.10.19:388][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Materials/M_Concrete_Tiles.uasset"
+[2016.11.18-23.10.19:397][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Glass.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Materials/M_Glass.uasset"
+[2016.11.18-23.10.19:412][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Grass.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Materials/M_Ground_Grass.uasset"
+[2016.11.18-23.10.19:420][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Gravel.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Materials/M_Ground_Gravel.uasset"
+[2016.11.18-23.10.19:429][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Moss.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Materials/M_Ground_Moss.uasset"
+[2016.11.18-23.10.19:442][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset"
+[2016.11.18-23.10.19:455][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset"
+[2016.11.18-23.10.19:469][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Chrome.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Materials/M_Metal_Chrome.uasset"
+[2016.11.18-23.10.19:482][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Copper.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Materials/M_Metal_Copper.uasset"
+[2016.11.18-23.10.19:497][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Gold.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Materials/M_Metal_Gold.uasset"
+[2016.11.18-23.10.19:509][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Rust.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Materials/M_Metal_Rust.uasset"
+[2016.11.18-23.10.19:525][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Steel.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Materials/M_Metal_Steel.uasset"
+[2016.11.18-23.10.19:547][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Basalt.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Materials/M_Rock_Basalt.uasset"
+[2016.11.18-23.10.19:558][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset"
+[2016.11.18-23.10.19:572][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Materials/M_Rock_Sandstone.uasset"
+[2016.11.18-23.10.19:583][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Slate.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Materials/M_Rock_Slate.uasset"
+[2016.11.18-23.10.19:597][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset"
+[2016.11.18-23.10.19:609][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset"
+[2016.11.18-23.10.19:614][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset"
+[2016.11.18-23.10.19:624][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Panel.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Materials/M_Tech_Panel.uasset"
+[2016.11.18-23.10.19:640][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Lake.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Materials/M_Water_Lake.uasset"
+[2016.11.18-23.10.19:655][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Ocean.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Materials/M_Water_Ocean.uasset"
+[2016.11.18-23.10.19:668][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset"
+[2016.11.18-23.10.19:684][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset"
+[2016.11.18-23.10.19:697][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Oak.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Materials/M_Wood_Oak.uasset"
+[2016.11.18-23.10.19:711][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Pine.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Materials/M_Wood_Pine.uasset"
+[2016.11.18-23.10.19:724][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Walnut.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Materials/M_Wood_Walnut.uasset"
+[2016.11.18-23.10.19:737][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Ambient_Dust.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
+[2016.11.18-23.10.19:776][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Explosion.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Particles/P_Explosion.uasset"
+[2016.11.18-23.10.19:786][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Fire.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Particles/P_Fire.uasset"
+[2016.11.18-23.10.19:799][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Smoke.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Particles/P_Smoke.uasset"
+[2016.11.18-23.10.19:814][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Sparks.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Particles/P_Sparks.uasset"
+[2016.11.18-23.10.19:826][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Steam_Lit.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Particles/P_Steam_Lit.uasset"
+[2016.11.18-23.10.19:841][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Burst.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Particles/Materials/M_Burst.uasset"
+[2016.11.18-23.10.19:854][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset"
+[2016.11.18-23.10.19:862][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset"
+[2016.11.18-23.10.19:870][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset"
+[2016.11.18-23.10.19:878][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/m_flare_01.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Particles/Materials/m_flare_01.uasset"
+[2016.11.18-23.10.19:893][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset"
+[2016.11.18-23.10.19:895][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset"
+[2016.11.18-23.10.19:906][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset"
+[2016.11.18-23.10.19:921][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset"
+[2016.11.18-23.10.19:928][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Spark.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Particles/Materials/M_Spark.uasset"
+[2016.11.18-23.10.19:943][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/MaterialSphere.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Props/MaterialSphere.uasset"
+[2016.11.18-23.10.19:956][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Bush.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Props/SM_Bush.uasset"
+[2016.11.18-23.10.19:965][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Chair.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Props/SM_Chair.uasset"
+[2016.11.18-23.10.19:979][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_CornerFrame.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Props/SM_CornerFrame.uasset"
+[2016.11.18-23.10.19:993][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Couch.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Props/SM_Couch.uasset"
+[2016.11.18-23.10.20:002][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Door.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Props/SM_Door.uasset"
+[2016.11.18-23.10.20:019][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_DoorFrame.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Props/SM_DoorFrame.uasset"
+[2016.11.18-23.10.20:033][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_GlassWindow.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Props/SM_GlassWindow.uasset"
+[2016.11.18-23.10.20:050][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset"
+[2016.11.18-23.10.20:067][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Wall.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Props/SM_Lamp_Wall.uasset"
+[2016.11.18-23.10.20:104][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset"
+[2016.11.18-23.10.20:115][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Props/SM_PillarFrame.uasset"
+[2016.11.18-23.10.20:129][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame300.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Props/SM_PillarFrame300.uasset"
+[2016.11.18-23.10.20:144][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Rock.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Props/SM_Rock.uasset"
+[2016.11.18-23.10.20:159][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Shelf.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Props/SM_Shelf.uasset"
+[2016.11.18-23.10.20:170][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Stairs.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Props/SM_Stairs.uasset"
+[2016.11.18-23.10.20:184][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Statue.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Props/SM_Statue.uasset"
+[2016.11.18-23.10.20:204][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_TableRound.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Props/SM_TableRound.uasset"
+[2016.11.18-23.10.20:213][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_WindowFrame.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Props/SM_WindowFrame.uasset"
+[2016.11.18-23.10.20:226][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Bush.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Props/Materials/M_Bush.uasset"
+[2016.11.18-23.10.20:240][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Chair.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Props/Materials/M_Chair.uasset"
+[2016.11.18-23.10.20:251][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Door.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Props/Materials/M_Door.uasset"
+[2016.11.18-23.10.20:262][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Frame.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Props/Materials/M_Frame.uasset"
+[2016.11.18-23.10.20:278][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Lamp.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Props/Materials/M_Lamp.uasset"
+[2016.11.18-23.10.20:289][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset"
+[2016.11.18-23.10.20:297][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset"
+[2016.11.18-23.10.20:313][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Rock.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Props/Materials/M_Rock.uasset"
+[2016.11.18-23.10.20:329][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Shelf.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Props/Materials/M_Shelf.uasset"
+[2016.11.18-23.10.20:346][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Statue.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Props/Materials/M_Statue.uasset"
+[2016.11.18-23.10.20:359][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Props/Materials/M_StatueGlass.uasset"
+[2016.11.18-23.10.20:372][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_TableRound.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Props/Materials/M_TableRound.uasset"
+[2016.11.18-23.10.20:521][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cone.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Shapes/Shape_Cone.uasset"
+[2016.11.18-23.10.20:537][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cube.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Shapes/Shape_Cube.uasset"
+[2016.11.18-23.10.20:658][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cylinder.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Shapes/Shape_Cylinder.uasset"
+[2016.11.18-23.10.20:747][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset"
+[2016.11.18-23.10.20:755][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Shapes/Shape_Pipe.uasset"
+[2016.11.18-23.10.20:764][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Shapes/Shape_Pipe_180.uasset"
+[2016.11.18-23.10.20:776][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Shapes/Shape_Pipe_90.uasset"
+[2016.11.18-23.10.20:793][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Plane.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Shapes/Shape_Plane.uasset"
+[2016.11.18-23.10.20:796][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset"
+[2016.11.18-23.10.20:808][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Sphere.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Shapes/Shape_Sphere.uasset"
+[2016.11.18-23.10.20:826][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Torus.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Shapes/Shape_Torus.uasset"
+[2016.11.18-23.10.20:829][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Shapes/Shape_Trim.uasset"
+[2016.11.18-23.10.20:839][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset"
+[2016.11.18-23.10.20:849][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset"
+[2016.11.18-23.10.20:860][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Shapes/Shape_TriPyramid.uasset"
+[2016.11.18-23.10.20:878][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Tube.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Shapes/Shape_Tube.uasset"
+[2016.11.18-23.10.20:892][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Shapes/Shape_Wedge_A.uasset"
+[2016.11.18-23.10.20:901][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Shapes/Shape_Wedge_B.uasset"
+[2016.11.18-23.10.20:914][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Shapes/Shape_WideCapsule.uasset"
+[2016.11.18-23.10.21:014][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset"
+[2016.11.18-23.10.21:094][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset"
+[2016.11.18-23.10.21:174][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset"
+[2016.11.18-23.10.21:236][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset"
+[2016.11.18-23.10.21:321][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset"
+[2016.11.18-23.10.21:415][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset"
+[2016.11.18-23.10.21:526][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset"
+[2016.11.18-23.10.21:600][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset"
+[2016.11.18-23.10.22:610][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset"
+[2016.11.18-23.10.22:675][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset"
+[2016.11.18-23.10.22:755][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset"
+[2016.11.18-23.10.22:832][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset"
+[2016.11.18-23.10.22:933][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset"
+[2016.11.18-23.10.22:956][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Burst_M.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Textures/T_Burst_M.uasset"
+[2016.11.18-23.10.22:971][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_D.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Textures/T_Bush_D.uasset"
+[2016.11.18-23.10.22:982][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_N.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Textures/T_Bush_N.uasset"
+[2016.11.18-23.10.22:996][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset"
+[2016.11.18-23.10.23:009][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset"
+[2016.11.18-23.10.23:024][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_M.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Textures/T_Chair_M.uasset"
+[2016.11.18-23.10.23:173][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_N.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Textures/T_Chair_N.uasset"
+[2016.11.18-23.10.23:231][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Textures/T_Checker_Noise_M.uasset"
+[2016.11.18-23.10.24:084][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset"
+[2016.11.18-23.10.24:121][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset"
+[2016.11.18-23.10.24:237][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset"
+[2016.11.18-23.10.24:278][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset"
+[2016.11.18-23.10.24:310][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset"
+[2016.11.18-23.10.24:384][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset"
+[2016.11.18-23.10.24:971][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset"
+[2016.11.18-23.10.25:061][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset"
+[2016.11.18-23.10.25:162][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset"
+[2016.11.18-23.10.25:254][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset"
+[2016.11.18-23.10.25:320][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset"
+[2016.11.18-23.10.25:435][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset"
+[2016.11.18-23.10.25:505][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset"
+[2016.11.18-23.10.25:570][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset"
+[2016.11.18-23.10.25:649][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset"
+[2016.11.18-23.10.25:715][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset"
+[2016.11.18-23.10.25:732][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset"
+[2016.11.18-23.10.25:827][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset"
+[2016.11.18-23.10.26:262][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_M.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Textures/T_Door_M.uasset"
+[2016.11.18-23.10.26:411][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_N.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Textures/T_Door_N.uasset"
+[2016.11.18-23.10.26:448][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Textures/T_Dust_Particle_D.uasset"
+[2016.11.18-23.10.26:741][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Textures/T_Explosion_SubUV.uasset"
+[2016.11.18-23.10.26:761][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_SubUV.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Textures/T_Fire_SubUV.uasset"
+[2016.11.18-23.10.26:776][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset"
+[2016.11.18-23.10.26:796][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_M.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Textures/T_Frame_M.uasset"
+[2016.11.18-23.10.26:820][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_N.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Textures/T_Frame_N.uasset"
+[2016.11.18-23.10.26:833][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Gradinet_01.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Textures/T_Gradinet_01.uasset"
+[2016.11.18-23.10.26:964][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Textures/T_Ground_Grass_D.uasset"
+[2016.11.18-23.10.27:076][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Textures/T_Ground_Grass_N.uasset"
+[2016.11.18-23.10.28:404][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset"
+[2016.11.18-23.10.28:641][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset"
+[2016.11.18-23.10.29:396][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_ground_Moss_D.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Textures/T_ground_Moss_D.uasset"
+[2016.11.18-23.10.29:487][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Textures/T_Ground_Moss_N.uasset"
+[2016.11.18-23.10.29:521][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_M.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Textures/T_Lamp_M.uasset"
+[2016.11.18-23.10.29:550][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_N.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Textures/T_Lamp_N.uasset"
+[2016.11.18-23.10.29:716][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_MacroVariation.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Textures/T_MacroVariation.uasset"
+[2016.11.18-23.10.29:807][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset"
+[2016.11.18-23.10.30:456][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Textures/T_Metal_Copper_D.uasset"
+[2016.11.18-23.10.30:589][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Textures/T_Metal_Gold_D.uasset"
+[2016.11.18-23.10.30:661][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Textures/T_Metal_Gold_N.uasset"
+[2016.11.18-23.10.30:760][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Textures/T_Metal_Rust_D.uasset"
+[2016.11.18-23.10.30:828][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Textures/T_Metal_Rust_N.uasset"
+[2016.11.18-23.10.30:898][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Textures/T_Metal_Steel_D.uasset"
+[2016.11.18-23.10.30:954][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Textures/T_Metal_Steel_N.uasset"
+[2016.11.18-23.10.31:041][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset"
+[2016.11.18-23.10.31:083][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_M.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Textures/T_RockMesh_M.uasset"
+[2016.11.18-23.10.31:136][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_N.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Textures/T_RockMesh_N.uasset"
+[2016.11.18-23.10.31:985][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset"
+[2016.11.18-23.10.32:058][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset"
+[2016.11.18-23.10.32:135][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset"
+[2016.11.18-23.10.32:226][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset"
+[2016.11.18-23.10.32:304][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset"
+[2016.11.18-23.10.32:416][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Textures/T_Rock_Slate_D.uasset"
+[2016.11.18-23.10.32:508][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Textures/T_Rock_Slate_N.uasset"
+[2016.11.18-23.10.33:393][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset"
+[2016.11.18-23.10.33:414][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_M.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Textures/T_Shelf_M.uasset"
+[2016.11.18-23.10.33:440][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_N.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Textures/T_Shelf_N.uasset"
+[2016.11.18-23.10.33:451][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Single_Tile_N.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Textures/T_Single_Tile_N.uasset"
+[2016.11.18-23.10.33:490][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Textures/T_Smoke_SubUV.uasset"
+[2016.11.18-23.10.33:508][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset"
+[2016.11.18-23.10.33:524][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Spark_Core.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Textures/T_Spark_Core.uasset"
+[2016.11.18-23.10.33:538][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_M.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Textures/T_Statue_M.uasset"
+[2016.11.18-23.10.33:551][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_N.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Textures/T_Statue_N.uasset"
+[2016.11.18-23.10.33:570][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_M.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Textures/T_TableRound_M.uasset"
+[2016.11.18-23.10.33:597][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_N.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Textures/T_TableRound_N.uasset"
+[2016.11.18-23.10.33:612][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Textures/T_Tech_Dot_M.uasset"
+[2016.11.18-23.10.33:627][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Textures/T_Tech_Dot_N.uasset"
+[2016.11.18-23.10.33:649][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset"
+[2016.11.18-23.10.33:661][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset"
+[2016.11.18-23.10.33:680][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Textures/T_Tech_Panel_M.uasset"
+[2016.11.18-23.10.33:705][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Textures/T_Tech_Panel_N.uasset"
+[2016.11.18-23.10.33:733][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_M.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Textures/T_Water_M.uasset"
+[2016.11.18-23.10.33:762][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_N.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Textures/T_Water_N.uasset"
+[2016.11.18-23.10.33:807][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset"
+[2016.11.18-23.10.33:854][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset"
+[2016.11.18-23.10.33:888][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset"
+[2016.11.18-23.10.34:724][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Textures/T_Wood_Oak_D.uasset"
+[2016.11.18-23.10.34:865][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Textures/T_Wood_Oak_N.uasset"
+[2016.11.18-23.10.34:957][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Textures/T_Wood_Pine_D.uasset"
+[2016.11.18-23.10.34:997][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Textures/T_Wood_Pine_N.uasset"
+[2016.11.18-23.10.35:060][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset"
+[2016.11.18-23.10.35:104][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" to "../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset"
+[2016.11.18-23.10.35:407][  0]LogRenderer: Reallocating scene render targets to support 256x256 (Frame:2).
+[2016.11.18-23.10.36:225][  0]LogSavePackage: Save=399.48ms
+[2016.11.18-23.10.36:225][  0]LogSavePackage: Moving '../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Saved/Floor_400x4009155ED4D466C0B84A38B24A79D355136.tmp' to '../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Architecture/Floor_400x400.uasset'
+[2016.11.18-23.10.36:230][  0]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/StarterContent/Architecture/Floor_400x400.uasset
+[2016.11.18-23.10.36:231][  0]LogFeaturePack:Warning: Inserted 1 feature packs
+[2016.11.18-23.10.36:232][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/SideScrollerBP/Maps/SideScrollerExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2016.11.18-23.10.36:233][  0]LightingResults: New page: Lighting Build
+[2016.11.18-23.10.36:237][  0]MapCheck: New page: Map Check
+[2016.11.18-23.10.36:237][  0]LightingResults: New page: Lighting Build
+[2016.11.18-23.10.37:729][  0]LogStaticMesh: Building static mesh TemplateFloor...
+[2016.11.18-23.10.37:730][  0]LogMeshUtilities: Invalid vertex normals found for mesh. Forcing recomputation of vertex normals for MikkTSpace. Fix mesh or disable "Use MikkTSpace Tangent Space" to avoid forced recomputation of normals.
+[2016.11.18-23.10.37:735][  0]LogStaticMesh: Built static mesh [0.01s] /Game/Geometry/Meshes/TemplateFloor.TemplateFloor
+[2016.11.18-23.10.37:877][  0]LogTexture:Display: Building textures: HQ_Lightmap0_2 (AutoDXT)
+[2016.11.18-23.10.37:928][  0]LogTexture:Display: Building textures: HQ_Lightmap1_1 (AutoDXT)
+[2016.11.18-23.10.38:142][  0]LogTexture:Display: Building textures: LQ_Lightmap_0_2 (DXT1)
+[2016.11.18-23.10.38:186][  0]LogTexture:Display: Building textures: LQ_Lightmap_1_1 (DXT1)
+[2016.11.18-23.10.38:394][  0]LogTexture:Display: Building textures: SkyOcclusion0_2 (AutoDXT)
+[2016.11.18-23.10.38:420][  0]LogTexture:Display: Building textures: SkyOcclusion1_1 (AutoDXT)
+[2016.11.18-23.10.39:085][  0]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2016.11.18-23.10.39:203][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2016.11.18-23.10.39:204][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2016.11.18-23.10.39:293][  0]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 88.52ms to complete.
+[2016.11.18-23.10.39:293][  0]LogFileHelpers: Loading map 'SideScrollerExampleMap' took 3.061
+[2016.11.18-23.10.39:429][  0]LogCollectionManager: Loaded 0 collections in 0.002021 seconds
+[2016.11.18-23.10.39:511][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Saved/Collections/' took 0.01s
+[2016.11.18-23.10.39:511][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/Developers/DerekMalone/Collections/' took 0.01s
+[2016.11.18-23.10.39:511][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/Collections/' took 0.01s
+[2016.11.18-23.10.39:511][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000008 seconds
+[2016.11.18-23.10.39:534][  0]LogContentBrowser: Native class hierarchy populated in 0.0224 seconds. Added 2156 classes and 421 folders.
+[2016.11.18-23.10.39:540][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2016.11.18-23.10.39:540][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2016.11.18-23.10.39:541][  0]LogContentBrowser: Native class hierarchy updated for 'GameplayTags' in 0.0008 seconds. Added 12 classes and 0 folders.
+[2016.11.18-23.10.39:549][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2016.11.18-23.10.39:623][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2016.11.18-23.10.39:631][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2016.11.18-23.10.39:642][  0]LogContentBrowser: Native class hierarchy updated for 'WorldBrowser' in 0.0005 seconds. Added 1 classes and 3 folders.
+[2016.11.18-23.10.39:657][  0]LogCrashTracker: Crashtracker disabled due to settings.
+[2016.11.18-23.10.39:662][  0]LogUObjectGlobals:Warning: Failed to find object 'Class None.'
+[2016.11.18-23.10.39:692][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0006 seconds. Added 1 classes and 2 folders.
+[2016.11.18-23.10.39:692][  0]LogLoad: (Engine Initialization) Total time: 31.28 seconds
+[2016.11.18-23.10.39:692][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.24 seconds
+[2016.11.18-23.10.39:692][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2016.11.18-23.10.39:692][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2016.11.18-23.10.39:710][  0]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2016.11.18-23.10.39:711][  0]LogOcInput: OculusInput pre-init called
+[2016.11.18-23.10.39:902][  0]LogContentStreaming: Texture pool size now 600 MB
+[2016.11.18-23.10.40:046][  0]LogRenderer: Reallocating scene render targets to support 1152x576 (Frame:3).
+[2016.11.18-23.10.40:381][  3]LogAssetRegistry: Asset discovery search completed in 27.1701 seconds
+[2016.11.18-23.10.40:381][  3]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2016.11.18-23.10.40:381][  3]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000037 seconds (updated 0 objects)
+[2016.11.18-23.12.59:466][342]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2016.11.18-23.12.59:466][342]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.11.18-23.12.59:468][342]PIE: New page: PIE session: SideScrollerExampleMap (Nov 18, 2016, 1:12:59 PM)
+[2016.11.18-23.12.59:468][342]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2016.11.18-23.12.59:516][342]LogPlayLevel: PIE: StaticDuplicateObject took: (0.047765s)
+[2016.11.18-23.12.59:518][342]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2016.11.18-23.12.59:519][342]LogPlayLevel: PIE: World Init took: (0.002411s)
+[2016.11.18-23.12.59:519][342]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.050924s)
+[2016.11.18-23.12.59:577][342]LogInit: XAudio2 using 'Headphones (2- High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.11.18-23.12.59:592][342]LogInit: FAudioDevice initialized.
+[2016.11.18-23.12.59:709][342]LogWorld: Game class is 'SideScrollerGameMode_C'
+[2016.11.18-23.12.59:720][342]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 60) at 2016.11.18-18.12.59
+[2016.11.18-23.12.59:721][342]LogWorld: Bringing up level for play took: 0.009174
+[2016.11.18-23.12.59:742][342]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0010 seconds. Added 11 classes and 0 folders.
+[2016.11.18-23.12.59:742][342]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.18-23.12.59:742][342]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.18-23.12.59:742][342]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.11.18-23.12.59:743][342]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.11.18-23.12.59:743][342]PIE: Info Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap 0.021
+[2016.11.18-23.12.59:743][342]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2016.11.18-23.13.12:000][ 68]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2016.11.18-23.13.12:038][ 68]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2016.11.18-23.13.13:954][176]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2016.11.18-23.13.14:131][177]Cmd: QUIT_EDITOR
+[2016.11.18-23.13.14:877][177]LogExit: Preparing to exit.
+[2016.11.18-23.13.15:519][177]LogDirectoryWatcher: A directory notification for 'C:/Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/' was aborted.
+[2016.11.18-23.13.15:536][177]LogExit: Editor shut down
+[2016.11.18-23.13.15:536][177]LogExit: Transaction tracking system shut down
+[2016.11.18-23.13.15:703][177]LogObj: Freed 0b from 0 cluster array pools.
+[2016.11.18-23.13.15:703][177]LogExit: Object subsystem successfully closed.
+[2016.11.18-23.13.15:721][177]LogD3D11RHI: Shutdown
+[2016.11.18-23.13.15:721][177]LogD3D11RHI: CleanupD3DDevice
+[2016.11.18-23.13.15:804][177]LogD3D11RHI: ~FD3D11DynamicRHI
+[2016.11.18-23.13.15:827][177]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (239)
+[2016.11.18-23.13.15:827][177]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (238)
+[2016.11.18-23.13.15:827][177]LogModuleManager: Shutting down and abandoning module CrashTracker (237)
+[2016.11.18-23.13.15:827][177]LogModuleManager: Shutting down and abandoning module WorldBrowser (236)
+[2016.11.18-23.13.15:827][177]LogModuleManager: Shutting down and abandoning module SceneOutliner (235)
+[2016.11.18-23.13.15:827][177]LogModuleManager: Shutting down and abandoning module WidgetCarousel (234)
+[2016.11.18-23.13.15:827][177]LogModuleManager: Shutting down and abandoning module AddContentDialog (233)
+[2016.11.18-23.13.15:827][177]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/4.13/FeaturePacks/' was aborted.
+[2016.11.18-23.13.15:828][177]LogModuleManager: Shutting down and abandoning module GameplayTags (232)
+[2016.11.18-23.13.15:828][177]LogModuleManager: Shutting down and abandoning module EditorWidgets (231)
+[2016.11.18-23.13.15:828][177]LogModuleManager: Shutting down and abandoning module CollectionManager (230)
+[2016.11.18-23.13.15:828][177]LogDirectoryWatcher: A directory notification for 'C:/Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/Collections/' was aborted.
+[2016.11.18-23.13.15:828][177]LogDirectoryWatcher: A directory notification for 'C:/Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/Developers/DerekMalone/Collections/' was aborted.
+[2016.11.18-23.13.15:828][177]LogDirectoryWatcher: A directory notification for 'C:/Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Saved/Collections/' was aborted.
+[2016.11.18-23.13.15:828][177]LogModuleManager: Shutting down and abandoning module StatsViewer (229)
+[2016.11.18-23.13.15:828][177]LogModuleManager: Shutting down and abandoning module FoliageEdit (228)
+[2016.11.18-23.13.15:828][177]LogModuleManager: Shutting down and abandoning module LandscapeEditor (227)
+[2016.11.18-23.13.15:829][177]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (226)
+[2016.11.18-23.13.15:829][177]LogModuleManager: Shutting down and abandoning module ActorPickerMode (225)
+[2016.11.18-23.13.15:829][177]LogModuleManager: Shutting down and abandoning module GeometryMode (224)
+[2016.11.18-23.13.15:829][177]LogModuleManager: Shutting down and abandoning module TextureAlignMode (223)
+[2016.11.18-23.13.15:829][177]LogModuleManager: Shutting down and abandoning module BspMode (222)
+[2016.11.18-23.13.15:829][177]LogModuleManager: Shutting down and abandoning module HardwareSurvey (221)
+[2016.11.18-23.13.15:829][177]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (220)
+[2016.11.18-23.13.15:829][177]LogModuleManager: Shutting down and abandoning module SequenceRecorder (219)
+[2016.11.18-23.13.15:829][177]LogModuleManager: Shutting down and abandoning module AutomationWorker (218)
+[2016.11.18-23.13.15:829][177]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (217)
+[2016.11.18-23.13.15:829][177]LogModuleManager: Shutting down and abandoning module PlacementMode (216)
+[2016.11.18-23.13.15:829][177]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (215)
+[2016.11.18-23.13.15:829][177]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (214)
+[2016.11.18-23.13.15:829][177]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (213)
+[2016.11.18-23.13.15:829][177]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (212)
+[2016.11.18-23.13.15:829][177]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (211)
+[2016.11.18-23.13.15:829][177]LogModuleManager: Shutting down and abandoning module Media (210)
+[2016.11.18-23.13.15:829][177]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (209)
+[2016.11.18-23.13.15:829][177]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (208)
+[2016.11.18-23.13.15:829][177]LogModuleManager: Shutting down and abandoning module CharacterAI (207)
+[2016.11.18-23.13.15:829][177]LogModuleManager: Shutting down and abandoning module SmartSnapping (206)
+[2016.11.18-23.13.15:829][177]LogModuleManager: Shutting down and abandoning module SessionServices (205)
+[2016.11.18-23.13.15:829][177]LogModuleManager: Shutting down and abandoning module ViewportSnapping (204)
+[2016.11.18-23.13.15:829][177]LogModuleManager: Shutting down and abandoning module ViewportInteraction (203)
+[2016.11.18-23.13.15:829][177]LogModuleManager: Shutting down and abandoning module LogVisualizer (202)
+[2016.11.18-23.13.15:829][177]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (201)
+[2016.11.18-23.13.15:829][177]LogModuleManager: Shutting down and abandoning module IntroTutorials (200)
+[2016.11.18-23.13.15:829][177]LogModuleManager: Shutting down and abandoning module EditorLiveStreaming (199)
+[2016.11.18-23.13.15:829][177]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (198)
+[2016.11.18-23.13.15:829][177]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (197)
+[2016.11.18-23.13.15:829][177]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (196)
+[2016.11.18-23.13.16:649][177]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (195)
+[2016.11.18-23.13.16:649][177]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (194)
+[2016.11.18-23.13.16:649][177]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (193)
+[2016.11.18-23.13.16:649][177]LogModuleManager: Shutting down and abandoning module NiagaraEditor (192)
+[2016.11.18-23.13.16:649][177]LogModuleManager: Shutting down and abandoning module MergeActors (191)
+[2016.11.18-23.13.16:649][177]LogModuleManager: Shutting down and abandoning module SizeMap (190)
+[2016.11.18-23.13.16:649][177]LogModuleManager: Shutting down and abandoning module TreeMap (189)
+[2016.11.18-23.13.16:649][177]LogModuleManager: Shutting down and abandoning module ReferenceViewer (188)
+[2016.11.18-23.13.16:649][177]LogModuleManager: Shutting down and abandoning module LocalizationService (187)
+[2016.11.18-23.13.16:649][177]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (186)
+[2016.11.18-23.13.16:649][177]LogModuleManager: Shutting down and abandoning module HardwareTargeting (185)
+[2016.11.18-23.13.16:649][177]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (184)
+[2016.11.18-23.13.16:649][177]LogModuleManager: Shutting down and abandoning module UndoHistory (183)
+[2016.11.18-23.13.16:649][177]LogModuleManager: Shutting down and abandoning module UserFeedback (182)
+[2016.11.18-23.13.16:649][177]LogModuleManager: Shutting down and abandoning module XmlParser (181)
+[2016.11.18-23.13.16:649][177]LogModuleManager: Shutting down and abandoning module Blutility (180)
+[2016.11.18-23.13.16:649][177]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (179)
+[2016.11.18-23.13.16:649][177]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (178)
+[2016.11.18-23.13.16:649][177]LogModuleManager: Shutting down and abandoning module InputBindingEditor (177)
+[2016.11.18-23.13.16:650][177]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (176)
+[2016.11.18-23.13.16:650][177]LogModuleManager: Shutting down and abandoning module SettingsEditor (175)
+[2016.11.18-23.13.16:650][177]LogModuleManager: Shutting down and abandoning module ProjectLauncher (174)
+[2016.11.18-23.13.16:650][177]LogModuleManager: Shutting down and abandoning module SessionFrontend (173)
+[2016.11.18-23.13.16:650][177]LogModuleManager: Shutting down and abandoning module ProfilerClient (172)
+[2016.11.18-23.13.16:650][177]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (171)
+[2016.11.18-23.13.16:650][177]LogModuleManager: Shutting down and abandoning module DeviceManager (170)
+[2016.11.18-23.13.16:694][177]LogModuleManager: Shutting down and abandoning module AutomationController (169)
+[2016.11.18-23.13.16:694][177]LogModuleManager: Shutting down and abandoning module AutomationWindow (168)
+[2016.11.18-23.13.16:694][177]LogModuleManager: Shutting down and abandoning module Layers (167)
+[2016.11.18-23.13.16:694][177]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (166)
+[2016.11.18-23.13.16:694][177]LogModuleManager: Shutting down and abandoning module DetailCustomizations (165)
+[2016.11.18-23.13.16:694][177]LogModuleManager: Shutting down and abandoning module PackagesDialog (164)
+[2016.11.18-23.13.16:694][177]LogModuleManager: Shutting down and abandoning module AnimGraph (163)
+[2016.11.18-23.13.16:694][177]LogModuleManager: Shutting down and abandoning module Persona (162)
+[2016.11.18-23.13.16:694][177]LogModuleManager: Shutting down and abandoning module Kismet (161)
+[2016.11.18-23.13.16:695][177]LogModuleManager: Shutting down and abandoning module GraphEditor (160)
+[2016.11.18-23.13.16:695][177]LogModuleManager: Shutting down and abandoning module ClassViewer (159)
+[2016.11.18-23.13.16:695][177]LogModuleManager: Shutting down and abandoning module Toolbox (158)
+[2016.11.18-23.13.16:695][177]LogModuleManager: Shutting down and abandoning module ModuleUI (157)
+[2016.11.18-23.13.16:696][177]LogModuleManager: Shutting down and abandoning module MovieSceneTools (156)
+[2016.11.18-23.13.16:696][177]LogModuleManager: Shutting down and abandoning module OutputLog (155)
+[2016.11.18-23.13.16:696][177]LogModuleManager: Shutting down and abandoning module GammaUI (154)
+[2016.11.18-23.13.16:696][177]LogModuleManager: Shutting down and abandoning module Documentation (153)
+[2016.11.18-23.13.16:696][177]LogModuleManager: Shutting down and abandoning module Niagara (152)
+[2016.11.18-23.13.16:696][177]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (151)
+[2016.11.18-23.13.16:696][177]LogModuleManager: Shutting down and abandoning module AnalyticsET (150)
+[2016.11.18-23.13.16:696][177]LogModuleManager: Shutting down and abandoning module PortalServices (149)
+[2016.11.18-23.13.16:696][177]LogModuleManager: Shutting down and abandoning module PortalRpc (148)
+[2016.11.18-23.13.16:696][177]LogModuleManager: Shutting down and abandoning module MessagingRpc (147)
+[2016.11.18-23.13.16:696][177]LogModuleManager: Shutting down and abandoning module GameplayDebugger (146)
+[2016.11.18-23.13.16:696][177]LogModuleManager: Shutting down and abandoning module AITestSuite (145)
+[2016.11.18-23.13.16:696][177]LogModuleManager: Shutting down and abandoning module AIModule (144)
+[2016.11.18-23.13.16:696][177]LogModuleManager: Shutting down and abandoning module ProfilerService (143)
+[2016.11.18-23.13.16:724][177]LogModuleManager: Shutting down and abandoning module TaskGraph (142)
+[2016.11.18-23.13.16:725][177]LogModuleManager: Shutting down and abandoning module SubstanceEditor (141)
+[2016.11.18-23.13.16:725][177]LogModuleManager: Shutting down and abandoning module SlateRemote (140)
+[2016.11.18-23.13.16:725][177]LogModuleManager: Shutting down and abandoning module SteamVRController (139)
+[2016.11.18-23.13.16:725][177]LogModuleManager: Shutting down and abandoning module SteamVR (138)
+[2016.11.18-23.13.16:725][177]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (137)
+[2016.11.18-23.13.16:725][177]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (136)
+[2016.11.18-23.13.16:725][177]LogModuleManager: Shutting down and abandoning module OculusLibrary (135)
+[2016.11.18-23.13.16:725][177]LogModuleManager: Shutting down and abandoning module OculusInput (134)
+[2016.11.18-23.13.16:725][177]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (133)
+[2016.11.18-23.13.16:725][177]LogModuleManager: Shutting down and abandoning module CableComponent (132)
+[2016.11.18-23.13.16:725][177]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (131)
+[2016.11.18-23.13.16:725][177]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (129)
+[2016.11.18-23.13.16:725][177]LogModuleManager: Shutting down and abandoning module HTML5Networking (128)
+[2016.11.18-23.13.16:725][177]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (127)
+[2016.11.18-23.13.16:725][177]LogModuleManager: Shutting down and abandoning module GeometryCache (126)
+[2016.11.18-23.13.16:725][177]LogModuleManager: Shutting down and abandoning module AlembicLibrary (125)
+[2016.11.18-23.13.16:725][177]LogModuleManager: Shutting down and abandoning module AlembicImporter (124)
+[2016.11.18-23.13.16:725][177]LogModuleManager: Shutting down and abandoning module SuperSearch (123)
+[2016.11.18-23.13.16:725][177]LogModuleManager: Shutting down and abandoning module SuperSearchEditor (122)
+[2016.11.18-23.13.16:725][177]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (121)
+[2016.11.18-23.13.16:725][177]LogModuleManager: Shutting down and abandoning module PluginBrowser (120)
+[2016.11.18-23.13.16:726][177]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (119)
+[2016.11.18-23.13.16:726][177]LogModuleManager: Shutting down and abandoning module EpicSurvey (118)
+[2016.11.18-23.13.16:726][177]LogModuleManager: Shutting down and abandoning module DesktopPlatform (117)
+[2016.11.18-23.13.16:726][177]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (116)
+[2016.11.18-23.13.16:726][177]LogModuleManager: Shutting down and abandoning module UObjectPlugin (115)
+[2016.11.18-23.13.16:726][177]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (114)
+[2016.11.18-23.13.16:726][177]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (113)
+[2016.11.18-23.13.16:726][177]LogModuleManager: Shutting down and abandoning module SourceControl (112)
+[2016.11.18-23.13.16:726][177]LogModuleManager: Shutting down and abandoning module GitSourceControl (111)
+[2016.11.18-23.13.16:726][177]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (110)
+[2016.11.18-23.13.16:726][177]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (109)
+[2016.11.18-23.13.16:726][177]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (108)
+[2016.11.18-23.13.16:726][177]LogModuleManager: Shutting down and abandoning module MeshPaint (107)
+[2016.11.18-23.13.16:726][177]LogModuleManager: Shutting down and abandoning module FbxAutomationBuilderModule (106)
+[2016.11.18-23.13.16:726][177]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (105)
+[2016.11.18-23.13.16:726][177]LogModuleManager: Shutting down and abandoning module HotReload (104)
+[2016.11.18-23.13.16:727][177]LogModuleManager: Shutting down and abandoning module MainFrame (103)
+[2016.11.18-23.13.16:727][177]LogModuleManager: Shutting down and abandoning module LevelEditor (102)
+[2016.11.18-23.13.16:728][177]LogModuleManager: Shutting down and abandoning module ContentBrowser (101)
+[2016.11.18-23.13.16:729][177]LogModuleManager: Shutting down and abandoning module Paper2DEditor (100)
+[2016.11.18-23.13.16:730][177]LogModuleManager: Shutting down and abandoning module UdpMessaging (99)
+[2016.11.18-23.13.16:831][177]LogModuleManager: Shutting down and abandoning module TcpMessaging (98)
+[2016.11.18-23.13.16:932][177]LogModuleManager: Shutting down and abandoning module SubstanceCore (97)
+[2016.11.18-23.13.16:932][177]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (96)
+[2016.11.18-23.13.16:932][177]LogModuleManager: Shutting down and abandoning module Paper2D (95)
+[2016.11.18-23.13.16:932][177]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (94)
+[2016.11.18-23.13.16:932][177]LogModuleManager: Shutting down and abandoning module WmfMedia (93)
+[2016.11.18-23.13.16:933][177]LogModuleManager: Shutting down and abandoning module MediaAssets (92)
+[2016.11.18-23.13.16:933][177]LogModuleManager: Shutting down and abandoning module GameLiveStreaming (91)
+[2016.11.18-23.13.16:933][177]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (90)
+[2016.11.18-23.13.16:933][177]LogModuleManager: Shutting down and abandoning module VREditor (89)
+[2016.11.18-23.13.16:933][177]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (88)
+[2016.11.18-23.13.16:933][177]LogModuleManager: Shutting down and abandoning module PropertyEditor (87)
+[2016.11.18-23.13.16:933][177]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (86)
+[2016.11.18-23.13.16:933][177]LogModuleManager: Shutting down and abandoning module FunctionalTesting (85)
+[2016.11.18-23.13.16:933][177]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (84)
+[2016.11.18-23.13.16:933][177]LogModuleManager: Shutting down and abandoning module Sequencer (83)
+[2016.11.18-23.13.16:933][177]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (82)
+[2016.11.18-23.13.16:933][177]LogModuleManager: Shutting down and abandoning module MessageLog (81)
+[2016.11.18-23.13.16:933][177]LogModuleManager: Shutting down and abandoning module AssetTools (80)
+[2016.11.18-23.13.16:933][177]LogModuleManager: Shutting down and abandoning module UMGEditor (79)
+[2016.11.18-23.13.16:933][177]LogModuleManager: Shutting down and abandoning module UMG (78)
+[2016.11.18-23.13.16:933][177]LogModuleManager: Shutting down and abandoning module SlateReflector (77)
+[2016.11.18-23.13.16:933][177]LogModuleManager: Shutting down and abandoning module Slate (76)
+[2016.11.18-23.13.16:933][177]LogModuleManager: Shutting down and abandoning module EditorStyle (75)
+[2016.11.18-23.13.16:936][177]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (74)
+[2016.11.18-23.13.16:936][177]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (73)
+[2016.11.18-23.13.16:936][177]LogModuleManager: Shutting down and abandoning module XAudio2 (72)
+[2016.11.18-23.13.16:936][177]LogModuleManager: Shutting down and abandoning module Networking (70)
+[2016.11.18-23.13.16:936][177]LogModuleManager: Shutting down and abandoning module Core (69)
+[2016.11.18-23.13.16:936][177]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (68)
+[2016.11.18-23.13.16:936][177]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2016.11.18-23.13.16:936][177]LogDirectoryWatcher: A directory notification for '../../../../../../Users/Derek Malone/Documents/GitHub/Level-Final/Limbo/Content/' was aborted.
+[2016.11.18-23.13.16:936][177]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2016.11.18-23.13.16:936][177]LogModuleManager: Shutting down and abandoning module AssetRegistry (67)
+[2016.11.18-23.13.17:063][177]LogModuleManager: Shutting down and abandoning module KismetCompiler (66)
+[2016.11.18-23.13.17:063][177]LogModuleManager: Shutting down and abandoning module PhysXFormats (65)
+[2016.11.18-23.13.17:063][177]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (64)
+[2016.11.18-23.13.17:063][177]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (63)
+[2016.11.18-23.13.17:064][177]LogModuleManager: Shutting down and abandoning module MeshUtilities (62)
+[2016.11.18-23.13.17:064][177]LogModuleManager: Shutting down and abandoning module DerivedDataCache (61)
+[2016.11.18-23.13.17:133][177]LogDerivedDataCache: Shutdown
+[2016.11.18-23.13.17:133][177]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (60)
+[2016.11.18-23.13.17:133][177]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (59)
+[2016.11.18-23.13.17:133][177]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (58)
+[2016.11.18-23.13.17:133][177]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (57)
+[2016.11.18-23.13.17:133][177]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (56)
+[2016.11.18-23.13.17:133][177]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (55)
+[2016.11.18-23.13.17:133][177]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (54)
+[2016.11.18-23.13.17:133][177]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (53)
+[2016.11.18-23.13.17:133][177]LogModuleManager: Shutting down and abandoning module ImageWrapper (52)
+[2016.11.18-23.13.17:133][177]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (51)
+[2016.11.18-23.13.17:133][177]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (50)
+[2016.11.18-23.13.17:133][177]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (49)
+[2016.11.18-23.13.17:133][177]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (48)
+[2016.11.18-23.13.17:133][177]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (47)
+[2016.11.18-23.13.17:133][177]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (46)
+[2016.11.18-23.13.17:133][177]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (45)
+[2016.11.18-23.13.17:133][177]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (44)
+[2016.11.18-23.13.17:133][177]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (43)
+[2016.11.18-23.13.17:133][177]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (42)
+[2016.11.18-23.13.17:133][177]LogModuleManager: Shutting down and abandoning module Messaging (41)
+[2016.11.18-23.13.17:133][177]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (40)
+[2016.11.18-23.13.17:134][177]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (39)
+[2016.11.18-23.13.17:134][177]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (38)
+[2016.11.18-23.13.17:134][177]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (37)
+[2016.11.18-23.13.17:134][177]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (36)
+[2016.11.18-23.13.17:134][177]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (35)
+[2016.11.18-23.13.17:134][177]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (34)
+[2016.11.18-23.13.17:134][177]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (33)
+[2016.11.18-23.13.17:134][177]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (32)
+[2016.11.18-23.13.17:134][177]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (31)
+[2016.11.18-23.13.17:134][177]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (30)
+[2016.11.18-23.13.17:134][177]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (29)
+[2016.11.18-23.13.17:134][177]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (28)
+[2016.11.18-23.13.17:134][177]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (27)
+[2016.11.18-23.13.17:134][177]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (26)
+[2016.11.18-23.13.17:134][177]LogModuleManager: Shutting down and abandoning module TargetPlatform (25)
+[2016.11.18-23.13.17:134][177]LogModuleManager: Shutting down and abandoning module InputCore (24)
+[2016.11.18-23.13.17:134][177]LogModuleManager: Shutting down and abandoning module Settings (23)
+[2016.11.18-23.13.17:134][177]LogModuleManager: Shutting down and abandoning module OculusRift (22)
+[2016.11.18-23.13.17:134][177]LogModuleManager: Shutting down and abandoning module GearVR (21)
+[2016.11.18-23.13.17:134][177]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (20)
+[2016.11.18-23.13.17:134][177]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (19)
+[2016.11.18-23.13.17:134][177]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (17)
+[2016.11.18-23.13.17:134][177]LogOnline:Display: Unloading online subsystem: NULL
+[2016.11.18-23.13.17:134][177]LogModuleManager: Shutting down and abandoning module HTTP (16)
+[2016.11.18-23.13.17:134][177]LogHttp:Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2016.11.18-23.13.17:134][177]LogHttp:Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B8CEC1A08-47C0-922B-668F-F9A166E0DDB4%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.13.2-3172292%2B%2B%2BUE4%2BRelease-4.13&UserID=c50df66b463b0a3d4bfe22ab555d5e03%7Ccc6e7492497b469c8692c619bc8bd6da%7C52f06db0-a439-40c8-86f5-84af41deac45&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2016.11.18-23.13.17:150][177]LogModuleManager: Shutting down and abandoning module XMPP (15)
+[2016.11.18-23.13.17:150][177]LogModuleManager: Shutting down and abandoning module TextureCompressor (14)
+[2016.11.18-23.13.17:150][177]LogModuleManager: Shutting down and abandoning module ShaderCore (13)
+[2016.11.18-23.13.17:150][177]LogModuleManager: Shutting down and abandoning module Landscape (12)
+[2016.11.18-23.13.17:150][177]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (11)
+[2016.11.18-23.13.17:151][177]LogModuleManager: Shutting down and abandoning module OpenGLDrv (10)
+[2016.11.18-23.13.17:151][177]LogModuleManager: Shutting down and abandoning module D3D11RHI (9)
+[2016.11.18-23.13.17:151][177]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (8)
+[2016.11.18-23.13.17:151][177]LogModuleManager: Shutting down and abandoning module Renderer (7)
+[2016.11.18-23.13.17:151][177]LogModuleManager: Shutting down and abandoning module Engine (6)
+[2016.11.18-23.13.17:151][177]LogModuleManager: Shutting down and abandoning module CoreUObject (5)
+[2016.11.18-23.13.17:151][177]LogModuleManager: Shutting down and abandoning module NetworkFile (4)
+[2016.11.18-23.13.17:151][177]LogModuleManager: Shutting down and abandoning module StreamingFile (3)
+[2016.11.18-23.13.17:151][177]LogModuleManager: Shutting down and abandoning module SandboxFile (2)
+[2016.11.18-23.13.17:151][177]LogModuleManager: Shutting down and abandoning module PakFile (1)
+[2016.11.18-23.13.17:153][177]LogExit: Exiting.
+[2016.11.18-23.13.17:161][177]Log file closed, 11/18/16 18:13:17
